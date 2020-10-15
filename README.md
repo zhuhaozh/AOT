@@ -1,6 +1,6 @@
 ## AOT: Appearance Optimal Transport Model for Face Swapping
 
-[Hao Zhu](www.zhuhaozh.xyz)<sup>1,2</sup>, [Chaoyou Fu](https://scholar.google.com/citations?user=4A1xYQwAAAAJ&hl=en)<sup>2</sup>, [Qianyi Wu](https://qianyiwu.github.io)^3^, [Wayne Wu](https://wywu.github.io)<sup>3</sup>, [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)<sup>3</sup>, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en)<sup>2</sup>
+[Hao Zhu](https://www.zhuhaozh.xyz)<sup>1,2</sup>, [Chaoyou Fu](https://scholar.google.com/citations?user=4A1xYQwAAAAJ&hl=en)<sup>2</sup>, [Qianyi Wu](https://qianyiwu.github.io)<sup>3</sup>, [Wayne Wu](https://wywu.github.io)<sup>3</sup>, [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)<sup>3</sup>, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en)<sup>2</sup>
 
 <sup>1</sup>Anhui University  | <sup>2</sup>NLPR&CRIPAC, CASIA | <sup>2</sup>SenseTime Research
 
