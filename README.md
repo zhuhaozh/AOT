@@ -2,7 +2,7 @@
 
 [Hao Zhu](https://www.zhuhaozh.xyz)<sup>1,2</sup>, [Chaoyou Fu](https://scholar.google.com/citations?user=4A1xYQwAAAAJ&hl=en)<sup>2</sup>, [Qianyi Wu](https://qianyiwu.github.io)<sup>3</sup>, [Wayne Wu](https://wywu.github.io)<sup>3</sup>, [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)<sup>3</sup>, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en)<sup>2</sup>
 
-<sup>1</sup>Anhui University  | <sup>2</sup>NLPR&CRIPAC, CASIA | <sup>2</sup>SenseTime Research
+<sup>1</sup>Anhui University  | <sup>2</sup>NLPR&CRIPAC, CASIA | <sup>3</sup>SenseTime Research
 
 [Project Page](#) | [Paper](#) | [Demo](#)
 
@@ -18,8 +18,6 @@
 
 This is a purely academic study dedicated to improving the performance of face swapping as well as the face forgery detection.
 ANY RESOUCES PROVIDED HERE ARE NOT TO BE USED FOR MALICIOUS OR INAPPROPRIATE USE CASES.
-
-
 
 
 ## Manipulated Dataset
@@ -40,7 +38,7 @@ Binary detection accuracy of two video classification baselines: [I3D](https://g
 
 ![image-20201011125755388](assets/detection_results.png)
 
-#### Citation
+## Citation
 
 Coming soon.  
 
