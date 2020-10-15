@@ -31,7 +31,6 @@ The more manipulated videos are coming soon.
 ![image-20201014221758682](assets/datasets.png)
 
 
-
 ## Face Forgery Detection
 
 Binary detection accuracy of two video classification baselines: [I3D](https://github.com/piergiaj/pytorch-i3d) and [TSN](https://github.com/yjxiong/tsn-pytorch) on the hidden set provided by [DeeperForensics-1.0](https://github.com/EndlessSora/DeeperForensics-1.0).
