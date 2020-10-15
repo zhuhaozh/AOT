@@ -20,7 +20,7 @@ This is a purely academic study dedicated to improving the performance of face s
 ANY RESOUCES PROVIDED HERE ARE NOT TO BE USED FOR MALICIOUS OR INAPPROPRIATE USE CASES.
 
 
-## Face Forgery
+## Face Forensics
 The following datasets and the checkpoints of detectors can be downloaded from the [BaiduYun](https://pan.baidu.com/s/143Xuvea-ICcFuvgYfyY-Wg) (code: dzgc).
 
 ### Manipulated Dataset
