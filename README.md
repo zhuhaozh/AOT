@@ -1,4 +1,4 @@
-## AOT: Appearance Optimal Transport Model for Face Swapping
+## AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection
 
 [Hao Zhu](https://www.zhuhaozh.xyz)<sup>1,2</sup>, [Chaoyou Fu](https://scholar.google.com/citations?user=4A1xYQwAAAAJ&hl=en)<sup>2</sup>, [Qianyi Wu](https://qianyiwu.github.io)<sup>3</sup>, [Wayne Wu](https://wywu.github.io)<sup>3</sup>, [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=en)<sup>3</sup>, [Ran He](https://scholar.google.com/citations?user=ayrg9AUAAAAJ&hl=en)<sup>2</sup>
 
@@ -8,7 +8,7 @@
 
 <img src="assets/title.png" style="zoom:80%;" />
 
-> **Abstract:** Face swapping has attracted great attention due to its wide range of applications. Although recent works have made gratifying progress, their swapping results tend to be inconsistent between the source and the target images in the case of large appearance gaps. Such appearance gaps mainly arise from the large discrepancies in illuminations and skin colors that widely exist in real-world scenarios. However, due to the difficulties of modeling the complex appearance mapping, it is challenging to transfer fine-grained appearances adaptively while preserving identity traits. This paper formulates appearance mapping as an optimal transport problem and proposes an Appearance Optimal Transport model (AOT) to formulate it in both latent and pixel space. Specifically, a relighting generator is designed to simulate the optimal transport plan. It is solved via minimizing the Wasserstein distance of the learned features in the latent space, enabling better performance and less computation than conventional optimization. To further refine the solution of the optimal transport plan, we develop a segmentation game to minimize the Wasserstein distance in the pixel space. A discriminator is introduced to distinguish the fake parts from a mix of real and fake image patches. Extensive experiments reveal the superiority of our method when compared with state-of-the-art methods in the case of large appearance gaps.
+> **Abstract:** Recent studies have shown that the performance of forgery detection can be improved with diverse and challenging Deepfakes datasets. However, due to the lack of Deepfakes datasets with large variance in appearance, which can be hardly produced by recent identity swapping methods, the detection algorithm may fail in this situation. In this work, we provide a new identity swapping algorithm with large differences in appearance for face forgery detection. The appearance gaps mainly arise from the large discrepancies in illuminations and skin colors that widely exist in real-world scenarios. However, due to the difficulties of modeling the complex appearance mapping, it is challenging to transfer fine-grained appearances adaptively while preserving identity traits. This paper formulates appearance mapping as an optimal transport problem and proposes an Appearance Optimal Transport model (AOT) to formulate it in both latent and pixel space. Specifically, a relighting generator is designed to simulate the optimal transport plan. It is solved via minimizing the Wasserstein distance of the learned features in the latent space, enabling better performance and less computation than conventional optimization. To further refine the solution of the optimal transport plan, we develop a segmentation game to minimize the Wasserstein distance in the pixel space. A discriminator is introduced to distinguish the fake parts from a mix of real and fake image patches. Extensive experiments reveal that the superiority of our method when compared with state-of-the-art methods and the ability of our generated data to improve the performance of face forgery detection.
 
 <img src="assets/pipeline.png" alt="pipeline" style="zoom:80%;" />
 
@@ -16,7 +16,6 @@
 
 ## Important Note
 
-This is a purely academic study dedicated to improving the performance of face swapping as well as the face forgery detection.
 ANY RESOUCES PROVIDED HERE ARE NOT TO BE USED FOR MALICIOUS OR INAPPROPRIATE USE CASES.
 
 
