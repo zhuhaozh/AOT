@@ -46,8 +46,12 @@ Binary detection accuracy of two video classification baselines: [I3D](https://g
 
 
 ## Citation
-
-Coming soon.  
+    @inproceedings{aot2020neurips,
+      title={AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection},
+      author={Zhu, Hao and Fu, Chaoyou and Wu, Qianyi and Wu, Wayne and Qian, Chen and He, Ran},
+      booktitle={Conference on Neural Information Processing Systems (NeurIPS)},
+      year={2020}
+    }
 
 
 
