@@ -4,7 +4,7 @@
 
 <sup>1</sup>Anhui University  | <sup>2</sup>NLPR&CRIPAC, CASIA | <sup>3</sup>SenseTime Research
 
-[Project Page](#) | [Paper](#) | [Demo](#) (Coming soon, stay tuned. )
+ [Paper](https://arxiv.org/abs/2011.02674) | [Demo](#) 
 
 <img src="assets/title.png" style="zoom:80%;" />
 
